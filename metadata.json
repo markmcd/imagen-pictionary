@@ -1,0 +1,6 @@
+{
+  "name": "[macd] Image Pictionary",
+  "description": "AI generates an image. You guess what it is.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
